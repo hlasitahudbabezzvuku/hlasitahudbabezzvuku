@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>HlasitaHudbeBezZvuku</h1>
+  <h1>HlasitaHudbaBezZvuku</h1>
   <div>
     <a href="https://github.com/hlasitahudbabezzvuku"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.twitch.tv/hlasitahudbabezzvuku"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
