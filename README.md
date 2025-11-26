@@ -1,6 +1,6 @@
 <div align="center">
     <h1>HlasitaHudbaBezZvuku</h1>
-    <h3>"If it doesn't work, use `goto`. If it still doesn't work, use more."</h3>
+    <h3>"If it doesn't work, use *goto*. If it still doesn't work, use more."</h3><br>
     <div>
         <img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=000000&labelColor=ccddff">
         <img src="https://img.shields.io/badge/FEDORA-000000?style=for-the-badge&logo=fedora&logoColor=000000&labelColor=ccddff">
